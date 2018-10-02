@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://frozen-headland-47406.herokuapp.com/",
+  "change_calculator": "https://ag-change-calculator.herokuapp.com/",
+  "mortgage_calculator": "https://ag-mortgage-calculator.herokuapp.com/",
+  "top_spots": "https://ag-sd-topspots.herokuapp.com/",
+  "vstda": "https://ag-vstda.herokuapp.com/"
 }
